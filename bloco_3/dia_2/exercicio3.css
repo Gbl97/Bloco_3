@@ -5,31 +5,35 @@
       }
 
       p{
-        font-weight: 600px;
+        font-weight: 700px;
         font-size: 3em;
         font-weight: bold;
         
       }
 
       body{
-        font-size: 16px;
+        font-size: 20px;
         
       }
-      #yellow{
+
+      .class-yellow{
         background-color: yellow;
         font-style: italic;
+        line-height: 5;
       }
 
-      #red{
+
+      .class-red {
         background-color: red;
         line-height: 5;
       }
 
-      #maroon{
+      .class-maroon {
         background-color: maroon;
+        line-height: 5;
       }
 
-      ul{
+      ul {
         text-decoration: royalblue;
       }
-    
+
