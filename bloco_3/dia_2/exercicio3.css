@@ -1,0 +1,39 @@
+
+      h1 {
+        font-family: sans-serif;
+        text-align: center;
+      }
+
+      p{
+        font-weight: 700px;
+        font-size: 3em;
+        font-weight: bold;
+        
+      }
+
+      body{
+        font-size: 20px;
+        
+      }
+
+      .class-yellow{
+        background-color: yellow;
+        font-style: italic;
+        line-height: 5;
+      }
+
+
+      .class-red {
+        background-color: red;
+        line-height: 5;
+      }
+
+      .class-maroon {
+        background-color: maroon;
+        line-height: 5;
+      }
+
+      ul {
+        text-decoration: royalblue;
+      }
+
