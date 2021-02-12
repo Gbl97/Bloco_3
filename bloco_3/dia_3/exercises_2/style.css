@@ -1,11 +1,20 @@
-.super-mario{
+
+#mario{
+    right:10px
+}
+
+.super-mario {
 
     /*Tamanho da Imagem*/
     width: 200px;
+    
 }
 
 .goomba{
     width: 150px;
+    
+    /*Alto*/
+    top: 100px;
 }
 
 .word{
