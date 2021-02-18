@@ -2,7 +2,16 @@
 .super-mario {
 
     /*Tamanho da Imagem*/
-    width: 300px;
-    margin-left: 100px;
-    padding-left: 100px;  
+    width: 200px;
+    margin-left: 80px;
+    padding-left: 80px;
+    margin-bottom: -10px;
+    margin-top: 90px;
+}
+
+.goomba{
+    width: 180px;
+    padding-left: 150px;
+    padding-right: 250px;
+    margin-bottom: 310px;
 }
