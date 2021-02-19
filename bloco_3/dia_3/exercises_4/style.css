@@ -62,5 +62,32 @@ ul > li:nth-child(-n+3){
 [class*="java"]{
     background-color: pink;
 }
+
+.stack:hover{
+    color: orange;
+    font-weight: bold;
+
+}
+
+.schools:hover{
+    color: green;
+    font-weight: bold;
+}
+
+.mdn:hover{
+    color: black;
+    font-weight: bold;
+    
+}
+
+.dev:hover{
+    color: yellow;
+    font-weight: bold;
+}
+
+.trybe:hover{
+    color: #33cc33;
+    font-weight: bold;
+}
     
 
