@@ -27,10 +27,29 @@ ol.ordenada li:nth-child(even){
 /*Se for Ímpar, em nth-child(), ao invés de even, é odd*/
 
 /*Se for Primo*/
-ol.ordenada li:first-child,
-ol.ordenada li:nth-child(2n + 4),
-ol.ordenada li:nth-child(3n + 6){
+ol.ordenada li:nth-child(2),:nth-child(3),:nth-child(5){
     text-transform: uppercase;
 }
+
+/*Fazendo todos os títulos receberem a cor de fonte vermelha*/
+.header{
+    color: red;
+}
+
+/*O título que está em itálico, aumentar o tamnhano e 40 px e colocar uma borda */
+.italic{
+    font-size: 40px;
+    border: 1px solid black;
+}
+
+li{
+    font-size: 20px;
+}
+
+li, em{
+    font-weight: bolder;
+}
+
+
     
 
