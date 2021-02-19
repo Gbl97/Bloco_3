@@ -1,0 +1,28 @@
+
+div:hover{
+    border-style: solid;
+}
+
+div:nth-of-type(1)>h3{
+    color: red;
+    font-style: italic;
+}
+
+div:nth-of-type(2)>h3{
+    color:green;
+}
+
+div:nth-of-type(3)>h3{
+    color: greenyellow;
+    font-size: 250px;
+    font-style: italic;
+}
+
+div:nth-of-type(4)>h3{
+    color:#000066;
+}
+
+div:nth-of-type(5)>h3{
+    color: #dada08;
+    font-style: italic;
+}
