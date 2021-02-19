@@ -49,7 +49,18 @@ li{
 li, em{
     font-weight: bolder;
 }
+/*Pegando os 3 primeiros da lista - Opção 1
+ul > li:nth-child(-n+3){
+    color: blue;
+}*/
 
+/*Pegando os 3 primeiros da lista - Opção 2*/
+[class*="python"],[class*="java"],[class*="javaS"]{
+    color: blue;
+}
 
+[class*="java"]{
+    background-color: pink;
+}
     
 
